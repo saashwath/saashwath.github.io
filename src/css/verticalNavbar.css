@@ -1,0 +1,32 @@
+.vertical-navbar{
+    position: fixed;
+    left:0;
+    /* width: 40px; */
+    min-height: 100vh;
+    max-height: 100vh;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+    background-color: rgba(41, 68, 0, 0.9);
+
+}
+.icon-div{
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 30px;
+}
+.current{
+    color: var(--main-theme-color);
+    background-color: #ffffff;
+}
+.icon-div:active{
+    position: relative;
+    top:1px;
+}
+
+@media (max-height: 420px) {
+    .icon-div {
+        font-size: 25px;
+    }
+  }

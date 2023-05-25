@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+@import './css/variables.css';
+.App {
+  font-family: 'Quicksand', sans-serif;
+  
+  background-color: var(--main--bg-color) !important;  
+  color:  var(--main--font-color);
+  overflow-x: hidden;
+}
+
+::selection{
+  color: #ffffff;
+  background-color: var(--main-theme-color);
+}

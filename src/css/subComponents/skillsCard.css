@@ -1,0 +1,40 @@
+.skills-card{
+    max-width: 90%;
+    min-height: 200px;
+
+    margin: auto; 
+    text-align: center;
+    -webkit-box-shadow: 0 0 5px 2px #ddd;
+    --moz-box-shadow: 0 0 5px 2px #ddd;
+    box-shadow: 0 0 5px 2px #ddd;
+
+    -webkit-transition: all 250ms ease;
+    -ms-transition: all 250ms ease;
+    transition: all 250ms ease;
+}
+.pic-up{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top:-75px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.skills-card:hover{
+    border-bottom: solid 5px var(--main-theme-color);
+    max-width: 100%;
+}
+
+.name-up{
+    position: absolute;
+    top:105px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align-last: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}

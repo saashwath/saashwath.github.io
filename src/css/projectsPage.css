@@ -1,0 +1,27 @@
+.projects-page {
+    margin-left: 38px;
+    background-color: var(--main-bg-color);
+    text-align: justify;
+    cursor: pointer;
+
+    -webkit-transition: all 250ms ease;
+    -ms-transition: all 250ms ease;
+    transition: all 250ms ease;
+  }
+.project-align-card{
+  padding-bottom: 65px;
+  }
+  .view-more-on-github-button{
+    display: -webkit-flex; 
+    -webkit-align-items: center; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;;
+    font-size: 20px;
+  }
+  @media (max-height: 420px) {
+    .projects-page {
+      margin-left: 32px;
+    }
+  }

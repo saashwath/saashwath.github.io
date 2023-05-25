@@ -1,0 +1,19 @@
+.skills-page {
+    margin-left: 38px;
+    cursor: pointer;
+    background-color: var(--main-bg-color);
+  }
+
+  .skills-top-padding{
+    padding-bottom: 80px;
+  }
+
+  .skills-align-card{
+    margin-bottom: 100px;
+  }
+
+  @media (max-height: 420px) {
+    .skills-page {
+      margin-left: 32px;
+    }
+  }

@@ -1,0 +1,78 @@
+.contact-page {
+    min-height: 100vh;
+    margin-left: 38px; 
+    position: relative;
+    background-color: var(--main-bg-color);
+    cursor: pointer;
+  }
+
+  .contact-content-holder{
+    padding-bottom: 30px !important;
+  }
+
+  .contact-box{
+    background-color: var(--main-bg-color);
+    -webkit-box-shadow: 0 0 5px 2px #ddd;
+    --moz-box-shadow: 0 0 5px 2px #ddd;
+    box-shadow: 0 0 5px 2px #ddd;
+    padding: 50px;
+    padding-left: 0;
+
+    -webkit-transition: all 250ms ease;
+    -ms-transition: all 250ms ease;
+    transition: all 250ms ease;
+  }
+  .colomn-margin-bottom{
+    margin-bottom: 100px;
+  }
+  .content-vertical-align{
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .icon-style{
+    color: var(--main-theme-color);
+    font-size: 40px;
+    text-align: center;
+  }
+  .icon-style:active{
+    position: relative;
+    top: 1px;
+  }
+  .form-control{
+    margin-bottom: 20px;
+    position: relative;
+  }
+
+  .row{
+    margin-left: 0;
+  }
+
+  @media (max-width: 770px) {
+
+    .content-vertical-align{
+      justify-content: center;
+    }
+    .colomn-margin-bottom{
+    margin-bottom: 2rem!important;
+    }
+    .responsive-margin-bottom{
+      margin-bottom: 2rem!important;
+    }
+
+    .contact-box{
+      background-color: var(--main-bg-color);
+      -webkit-box-shadow: none;
+      --moz-box-shadow: none;
+      box-shadow: none;
+    }
+}
+
+@media (max-height: 420px) {
+  .contact-page {
+    margin-left: 32px;
+  }
+
+}

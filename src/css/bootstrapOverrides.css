@@ -1,0 +1,65 @@
+@import './variables.css';
+
+/* overwriting bootstrap button styles */
+
+    .btn {
+    -webkit-transition: all 250ms ease;
+    -ms-transition: all 250ms ease;
+    transition: all 250ms ease;
+    }
+    .btn-primary,
+    .btn-primary:hover,
+    .btn-primary:active,
+    .btn-primary:focus{
+        box-shadow: none !important;
+        outline: none !important;
+        border: none;
+    }
+    .btn-primary:active{
+        background-color: var(--main-theme-color) !important;
+    }
+
+    .btn:focus,
+    .btn.focus,
+    .btn:active,
+    .btn.active,
+    .btn:visited{
+    box-shadow: none !important;
+    outline: none !important;
+    }
+
+    .form-control{
+        color: var(--main-font-color);
+    }
+    .form-control:focus,
+    .form-control:active{
+        box-shadow: none !important;
+        outline: none !important;
+        border: 1.5px var(--main-theme-color) solid  !important;
+
+    }
+
+    a,
+    a:hover,
+    a:focus,
+    a:active,
+    a:visited{
+        color: inherit;
+        text-decoration: none;
+    }
+
+    textarea{
+
+        -webkit-transition: all 250ms ease;
+        -ms-transition: all 250ms ease;
+        transition: all 250ms ease;
+
+        color: var(--main-font-color);
+
+        }
+        textarea:focus,
+        textarea:active {
+            outline: none !important;
+            box-shadow: none !important;
+            border: 1.5px var(--main-theme-color) solid  !important;
+        }
