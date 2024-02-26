@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import '../css/homePage.css';
-import DownloadableFile from '../downloadableFiles/Saashwath.pdf';
+import DownloadableFile from '../downloadableFiles/saashwath.pdf';
 
 // import SaashwathImage from '../images/saashwath1.jpeg';
 // import SaashwathImage2 from '../images/saashwath2.jpeg';
