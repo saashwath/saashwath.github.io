@@ -1,11 +1,10 @@
 {
   "main.css": "static/css/main.cb9c48a5.css",
   "main.css.map": "static/css/main.cb9c48a5.css.map",
-  "main.js": "static/js/main.8b49470a.js",
-  "main.js.map": "static/js/main.8b49470a.js.map",
+  "main.js": "static/js/main.669929ba.js",
+  "main.js.map": "static/js/main.669929ba.js.map",
   "static/media/MySQL.png": "static/media/MySQL.5fd9a519.png",
   "static/media/PostgreSQL.png": "static/media/PostgreSQL.341cc3b6.png",
-  "static/media/Saashwath.pdf": "static/media/Saashwath.0d843955.pdf",
   "static/media/aboutMe.jpg": "static/media/aboutMe.3b878cd4.jpg",
   "static/media/aboutMeProfile.jpg": "static/media/aboutMeProfile.585f0ba8.jpg",
   "static/media/citLogo.png": "static/media/citLogo.02a98236.png",
@@ -22,5 +21,6 @@
   "static/media/pvvLogo.jpg": "static/media/pvvLogo.38273c47.jpg",
   "static/media/python.png": "static/media/python.010e6b03.png",
   "static/media/react.png": "static/media/react.20ea44b1.png",
+  "static/media/saashwath.pdf": "static/media/saashwath.0d843955.pdf",
   "static/media/saashwathHome.jpg": "static/media/saashwathHome.5d451572.jpg"
 }
