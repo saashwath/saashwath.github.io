@@ -27,9 +27,9 @@ class AboutPage extends Component {
             <div>
                 I'm a software developer from Coimbatore, India. 
                 I'm passionate about playing football. 
-                I always wanted to be unique which take me to my destined place.
+                I always wanted to be unique which I believe take me to my destined place.
                 I specialize in building react and Java applications.
-                I also have interest in creating intuitive, dynamic user experiences. 
+                Also interested in creating intuitive, dynamic user experiences and ethical hacking.
                 I like exploring people and grasping knowledge from experiences.
                 <div className="mt-1"><a onClick={this.goToProjects}> <button className="btn btn-primary about-button"> View my work <i className="fas fa-caret-down pl-1"></i> </button> </a></div>
             </div>

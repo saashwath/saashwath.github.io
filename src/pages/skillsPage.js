@@ -15,7 +15,7 @@ class SkillsPage extends Component {
                 'MySQL',
                 'node',
                 'mongoDB',
-                'PHP',
+                'PostgreSQL',
               ]
     }
   }

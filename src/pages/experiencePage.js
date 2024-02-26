@@ -9,7 +9,7 @@ class ExperiencePage extends Component {
       xp: [
         {
           type: 'Software Engineer',
-          company:'Calypso Technologies (now Adenza)',
+          company:'Adenza (now Nasdaq)',
           place: 'Chennai, India',
           fromTo: 'Sep 2022-Present',
           duration: '',
@@ -18,7 +18,7 @@ class ExperiencePage extends Component {
         },
         {
           type: 'Associate Software Engineer',
-          company:'Calypso Technologies (now Adenza)',
+          company:'Adenza (now Nasdaq)',
           place: 'Chennai, India',
           fromTo: 'May 2020-Aug 2022',
           duration: '2.3 years',
@@ -27,7 +27,7 @@ class ExperiencePage extends Component {
         },
         {
           type: 'Software Intern',
-          company:'Calypso Technologies (now Adenza)',
+          company:'Adenza (now Nasdaq)',
           place: 'Chennai, India',
           fromTo: 'May 2018-Nov 2018',
           duration: '6 Months',
