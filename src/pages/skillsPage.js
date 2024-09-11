@@ -9,12 +9,12 @@ class SkillsPage extends Component {
 
     this.state = {
       skills: [ 'java',
+                'SpringBoot',
                 'python',
                 'data Structure',
                 'react',
                 'MySQL',
                 'node',
-                'mongoDB',
                 'PostgreSQL',
               ]
     }

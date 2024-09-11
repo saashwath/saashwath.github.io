@@ -8,26 +8,26 @@ class ExperiencePage extends Component {
     this.state = {
       xp: [
         {
-          type: 'Software Engineer',
-          company:'Adenza (now Nasdaq)',
+          type: 'Senior Software Developer',
+          company:'Nasdaq',
           place: 'Chennai, India',
           fromTo: 'Sep 2022-Present',
           duration: '',
           role: 'Software Developer',
-          desc: "Developed Engine for ECMS which processes various events and maintains real time data to compute creditline information. Developed e2e commitstage to run in jenkins for collateral server and acadia server. Incharge of sub-module in Collateral (Acadia) and few other specific collateral functionalities."
+          desc: "Developed Engine for ECMS which processes various events and maintains real time data to compute creditline information. Developed server side collateral optimization with auto save workflow and inventory maintenance. Developed e2e commitstage to run in jenkins for collateral server and acadia server."
         },
         {
-          type: 'Associate Software Engineer',
-          company:'Adenza (now Nasdaq)',
+          type: 'Software Developer',
+          company:'Nasdaq',
           place: 'Chennai, India',
           fromTo: 'May 2020-Aug 2022',
           duration: '2.3 years',
           role: 'Software Developer',
-          desc: "Single Handedly developed Acadia Margin Agreement connectivity project which provides ability to manage updates to the agreements in Calypso and send / receive to make agreements in sync. Improved performance of MarginCall detail entry / allocation report by 30%. Mentored interns in providing knowledge transfer and assigning tasks to bring them to speed."
+          desc: "Single-handedly developed Acadia Agreement & substitution project which provides ability to manage updates to the agreements in Calypso and send / receive messages to make in sync. Improved performance of MarginCall detail entry / allocation report by 30%."
         },
         {
           type: 'Software Intern',
-          company:'Adenza (now Nasdaq)',
+          company:'Nasdaq',
           place: 'Chennai, India',
           fromTo: 'May 2018-Nov 2018',
           duration: '6 Months',
