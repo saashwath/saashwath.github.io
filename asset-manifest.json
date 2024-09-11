@@ -1,10 +1,11 @@
 {
   "main.css": "static/css/main.cb9c48a5.css",
   "main.css.map": "static/css/main.cb9c48a5.css.map",
-  "main.js": "static/js/main.669929ba.js",
-  "main.js.map": "static/js/main.669929ba.js.map",
+  "main.js": "static/js/main.466642e7.js",
+  "main.js.map": "static/js/main.466642e7.js.map",
   "static/media/MySQL.png": "static/media/MySQL.5fd9a519.png",
   "static/media/PostgreSQL.png": "static/media/PostgreSQL.341cc3b6.png",
+  "static/media/SpringBoot.png": "static/media/SpringBoot.5f2ab789.png",
   "static/media/aboutMe.jpg": "static/media/aboutMe.3b878cd4.jpg",
   "static/media/aboutMeProfile.jpg": "static/media/aboutMeProfile.585f0ba8.jpg",
   "static/media/citLogo.png": "static/media/citLogo.02a98236.png",
@@ -14,13 +15,12 @@
   "static/media/data Structure.png": "static/media/data Structure.c6a84de6.png",
   "static/media/desk1.png": "static/media/desk1.c658fd5d.png",
   "static/media/java.png": "static/media/java.b855d7da.png",
-  "static/media/mongoDB.png": "static/media/mongoDB.b41f866d.png",
   "static/media/node.png": "static/media/node.5ad19cdf.png",
   "static/media/photoCrypter1.png": "static/media/photoCrypter1.08b4a237.png",
   "static/media/photoCrypter2.png": "static/media/photoCrypter2.49aa76c0.png",
   "static/media/pvvLogo.jpg": "static/media/pvvLogo.38273c47.jpg",
   "static/media/python.png": "static/media/python.010e6b03.png",
   "static/media/react.png": "static/media/react.20ea44b1.png",
-  "static/media/saashwath.pdf": "static/media/saashwath.0d843955.pdf",
+  "static/media/saashwath.pdf": "static/media/saashwath.4be1d985.pdf",
   "static/media/saashwathHome.jpg": "static/media/saashwathHome.5d451572.jpg"
 }
