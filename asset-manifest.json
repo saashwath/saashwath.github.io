@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.cb9c48a5.css",
   "main.css.map": "static/css/main.cb9c48a5.css.map",
-  "main.js": "static/js/main.466642e7.js",
-  "main.js.map": "static/js/main.466642e7.js.map",
+  "main.js": "static/js/main.15bc0aba.js",
+  "main.js.map": "static/js/main.15bc0aba.js.map",
   "static/media/MySQL.png": "static/media/MySQL.5fd9a519.png",
   "static/media/PostgreSQL.png": "static/media/PostgreSQL.341cc3b6.png",
   "static/media/SpringBoot.png": "static/media/SpringBoot.5f2ab789.png",
@@ -21,6 +21,6 @@
   "static/media/pvvLogo.jpg": "static/media/pvvLogo.38273c47.jpg",
   "static/media/python.png": "static/media/python.010e6b03.png",
   "static/media/react.png": "static/media/react.20ea44b1.png",
-  "static/media/saashwath.pdf": "static/media/saashwath.4be1d985.pdf",
+  "static/media/saashwath.pdf": "static/media/saashwath.dc9bb3d6.pdf",
   "static/media/saashwathHome.jpg": "static/media/saashwathHome.5d451572.jpg"
 }
